@@ -1,0 +1,59 @@
+# Propose Voiskey for Stompstart.
+name: Voiskey
+tagline: AI voice typing that cleans speech into ready-to-send text
+description: >-
+  Voiskey turns spoken thoughts into polished text for messages, emails, notes
+  and AI prompts. It cleans fillers and slips while keeping your meaning, and
+  it works across macOS, Windows, iOS and Android in over 100 languages.
+problem: >-
+  Spoken drafts need heavy editing before they fit chat, email or an AI prompt,
+  and most dictation tools flatten voice into generic prose.
+audience:
+  - People who write by speaking across phones and desktops
+  - Multilingual workers who switch languages mid-thought
+website: https://www.voiskey.ai/
+access:
+  - kind: download
+    url: https://www.voiskey.ai/download
+categories:
+  - productivity
+stage: live
+pricing:
+  model: freemium
+company:
+  name: Voiskey
+  relationship: independent
+location:
+  country: US
+founded:
+  precision: year
+  value: "2026"
+platforms:
+  - ios
+  - android
+  - macos
+  - windows
+links:
+  - kind: blog
+    url: https://www.voiskey.ai/blog
+logo:
+  path: logo.png
+  alt: The Voiskey logo, a rounded mark on a light background
+sources:
+  - url: https://www.voiskey.ai/
+    title: Official website
+  - url: https://www.producthunt.com/products/voiskey
+    title: Product Hunt product page
+launch:
+  title: Voiskey launches on Product Hunt
+  summary: >-
+    Public launch of the AI voice typing apps for iOS, macOS, Android and
+    Windows, with a free start and a launch-month Pro offer.
+  occurred_on:
+    precision: day
+    value: "2026-09-15"
+  date_basis: effective
+  source:
+    url: https://www.producthunt.com/products/voiskey
+    title: Voiskey on Product Hunt
+    locator: Company info and launch metadata showing launched in 2026; page ranks and comments date the launch day
